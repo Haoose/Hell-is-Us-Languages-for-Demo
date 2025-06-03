@@ -1,5 +1,6 @@
 # Hell is Us: Languages for Demo
-Translation of subtitles and interface into all languages. Only for Demo!
+Translation of subtitles and interface into all languages. Only for Demo!  
+French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian
 
 # Install:
 Copy file pakchunk2-Windows.pak to:
