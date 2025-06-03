@@ -1,5 +1,5 @@
 # Hell is Us: Languages for Demo
-![DemoLogo](https://github.com/Haoose/Hell-is-Us-Languages-for-Demo/blob/main/DemoHeader.jpg)
+![DemoLogo](https://github.com/Haoose/Hell-is-Us-Languages-for-Demo/blob/main/DemoHeader.jpg)  
 Translation of subtitles and interface into all languages. Only for Demo!  
 French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian
 
