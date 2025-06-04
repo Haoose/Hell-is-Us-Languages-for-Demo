@@ -20,3 +20,6 @@ Encryption key for pak-archives:
 
 All copyright to Developers (Rogue Factor)!
 https://store.steampowered.com/app/1620730/Hell_is_Us/
+
+# UPDATE:
+"We will indeed be adding more languages during the demo. Unfortunately, not all of them — but the majority. They weren’t ready in time for the launch, but you can expect them to be available around the 9th June." © Nacon
